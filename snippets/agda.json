@@ -19,9 +19,9 @@
     "body": ["𝓣"],
     "description": "universe level 𝓣"
   },
-  "type dot": {
-    "prefix": [".."],
+  "Universe dot  ̇": {
+    "prefix": ["ud"],
     "body": [" ̇"],
-    "description": "universe level 𝓤"
+    "description": "dot to make universe a type"
   }
 }
