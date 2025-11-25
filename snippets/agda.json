@@ -1,0 +1,27 @@
+{
+  "Universe 𝓤": {
+    "prefix": ["uu"],
+    "body": ["𝓤"],
+    "description": "universe level 𝓤"
+  },
+  "Universe 𝓥": {
+    "prefix": ["uv"],
+    "body": ["𝓥"],
+    "description": "universe level 𝓥"
+  },
+  "Universe 𝓦": {
+    "prefix": ["uw"],
+    "body": ["𝓦"],
+    "description": "universe level 𝓦"
+  },
+  "Universe 𝓣": {
+    "prefix": ["ut"],
+    "body": ["𝓣"],
+    "description": "universe level 𝓣"
+  },
+  "type dot": {
+    "prefix": [".."],
+    "body": [" ̇"],
+    "description": "universe level 𝓤"
+  }
+}

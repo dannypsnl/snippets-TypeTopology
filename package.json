@@ -1,0 +1,20 @@
+{
+  "name": "snippets-typetopology",
+  "displayName": "snippets-TypeTopology",
+  "description": "Snippets for using TypeTopology",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "agda",
+        "path": "./snippets/agda.json"
+      }
+    ]
+  }
+}
