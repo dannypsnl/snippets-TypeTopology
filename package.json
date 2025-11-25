@@ -3,6 +3,8 @@
   "displayName": "snippets-TypeTopology",
   "description": "Snippets for using TypeTopology",
   "version": "0.0.1",
+  "repository": "https://github.com/dannypsnl/snippets-TypeTopology",
+  "publisher": "dannypsnl",
   "engines": {
     "vscode": "^1.106.0"
   },
