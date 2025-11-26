@@ -23,5 +23,10 @@
     "prefix": ["ud"],
     "body": [" ̇"],
     "description": "dot to make universe a type"
+  },
+  "Sigma form Σ x ꞉ A , B": {
+    "prefix": ["sigma"],
+    "body": ["Σ ${1:name} ꞉ ${2:A} , ${0:B}"],
+    "description": "sigma form"
   }
 }
