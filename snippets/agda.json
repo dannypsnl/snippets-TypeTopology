@@ -1,28 +1,23 @@
 {
-  "Universe 𝓤": {
+  "Universe 𝓤 ̇": {
     "prefix": ["uu"],
-    "body": ["𝓤"],
-    "description": "universe level 𝓤"
+    "body": ["𝓤 ̇"],
+    "description": "Universe at level 𝓤"
   },
-  "Universe 𝓥": {
+  "Universe 𝓥 ̇": {
     "prefix": ["uv"],
-    "body": ["𝓥"],
-    "description": "universe level 𝓥"
+    "body": ["𝓥 ̇"],
+    "description": "Universe at level 𝓥"
   },
-  "Universe 𝓦": {
+  "Universe 𝓦 ̇": {
     "prefix": ["uw"],
-    "body": ["𝓦"],
-    "description": "universe level 𝓦"
+    "body": ["𝓦 ̇"],
+    "description": "Universe at level 𝓦"
   },
-  "Universe 𝓣": {
+  "Universe 𝓣 ̇": {
     "prefix": ["ut"],
-    "body": ["𝓣"],
-    "description": "universe level 𝓣"
-  },
-  "Universe dot  ̇": {
-    "prefix": ["ud"],
-    "body": [" ̇"],
-    "description": "dot to make universe a type"
+    "body": ["𝓣 ̇"],
+    "description": "Universe at level 𝓣"
   },
   "Sigma form Σ x ꞉ A , B": {
     "prefix": ["sigma"],
